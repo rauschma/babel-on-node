@@ -1,4 +1,4 @@
-jest.autoMockOff();
+import './auto_mock_off';
 import { Point } from '../point';
 
 describe('Point', () => {
